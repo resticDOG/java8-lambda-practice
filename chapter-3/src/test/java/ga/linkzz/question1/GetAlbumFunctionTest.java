@@ -1,4 +1,4 @@
-package ga.linkzz.question2;
+package ga.linkzz.question1;
 
 import ga.linkzz.domain.Album;
 import ga.linkzz.domain.SampleData;

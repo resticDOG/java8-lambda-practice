@@ -1,8 +1,7 @@
-package ga.linkzz.question2;
+package ga.linkzz.question1;
 
 import ga.linkzz.domain.Artist;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

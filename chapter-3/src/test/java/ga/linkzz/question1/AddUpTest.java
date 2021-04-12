@@ -1,4 +1,4 @@
-package ga.linkzz.question2;
+package ga.linkzz.question1;
 
 import org.junit.Assert;
 import org.junit.Test;
