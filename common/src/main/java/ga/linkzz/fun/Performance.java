@@ -2,7 +2,6 @@ package ga.linkzz.fun;
 
 import ga.linkzz.domain.Artist;
 
-import java.util.List;
 import java.util.stream.Stream;
 
 public interface Performance {
